@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefensoriaPublica", "DefensoriaPublica\DefensoriaPublica.csproj", "{1C364518-793D-4EC0-B652-257EE6057615}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefensoriaPublicaData", "DefensoriaPublicaData\DefensoriaPublicaData.csproj", "{1B81E901-86F5-4B41-B385-215BCD2AED6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1C364518-793D-4EC0-B652-257EE6057615}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C364518-793D-4EC0-B652-257EE6057615}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C364518-793D-4EC0-B652-257EE6057615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B81E901-86F5-4B41-B385-215BCD2AED6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B81E901-86F5-4B41-B385-215BCD2AED6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B81E901-86F5-4B41-B385-215BCD2AED6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B81E901-86F5-4B41-B385-215BCD2AED6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
